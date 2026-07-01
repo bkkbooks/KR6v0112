@@ -1,0 +1,134 @@
+canonical_identifier: bkk:krp/KR6v0112/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0112/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說佛名經（二十卷本——卷第一～卷第四）
+  identifiers:
+    krp: KR6v0112
+    cbeta: ZW10n0085
+    cbeta_old_id: ZW10n0085
+    authorityid: CA0008529
+    json_key: ZW0085
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW10/ZW10n0085.xml
+    old_id: ZW10n0085
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0112_000-ZW.yaml, hash: 'sha256:d8005d76b503056b28ad5a5447c7d2e7bc2c2ed5447999990e86472d0233605f'}
+  - {seq: 1, filename: KR6v0112_001-ZW.yaml, hash: 'sha256:f64f5b614c449c43e69e79805086d5401b8a5748cd4ff70cc5bfcc08a496e5fd'}
+  - {seq: 2, filename: KR6v0112_002-ZW.yaml, hash: 'sha256:eefa015ea65294ba3b094ade458a61a816bcbbaf46235a8be8008c8f39e07ee0'}
+  - {seq: 3, filename: KR6v0112_003-ZW.yaml, hash: 'sha256:60836031c8ff93aa5d1978700f7ae1f32b8bb84deec1a07ae753866995364184'}
+  - {seq: 4, filename: KR6v0112_004-ZW.yaml, hash: 'sha256:7e0f0d5d02d9290d8147d7a656f2969e94cfe45f751b658cb33fc60f13ee9d9a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0112_000-ZW.markers.yaml, hash: 'sha256:b016fe6248ff31cb17125ff73feb748d5af0bfac447ac35a48924844f876e131'}
+  - {seq: 1, role: markers, filename: assets/KR6v0112_001-ZW.markers.yaml, hash: 'sha256:e3b1c20901a14fc2945989b87816b00dae25153dff9aefd560934be3bbffd8cb'}
+  - {seq: 2, role: markers, filename: assets/KR6v0112_002-ZW.markers.yaml, hash: 'sha256:44a38417d2ecd658154d5e9a361ec2ea04b3656976e93771b2f88ab5aaa4bd39'}
+  - {seq: 3, role: markers, filename: assets/KR6v0112_003-ZW.markers.yaml, hash: 'sha256:46d32c692162c4cbed8cddb81ed81f71f74481988c995df985d831cab4a7aa14'}
+  - {seq: 4, role: markers, filename: assets/KR6v0112_004-ZW.markers.yaml, hash: 'sha256:0b2e25793f978ea2745eb111985c199be20a1b5aa3c0af66273a9476c134623f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0112_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0112_ZW_000-mulu-2
+    span:
+    - front
+    - 550
+    - 550
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0112_ZW_000-mulu-3
+    span:
+    - front
+    - 550
+    - 550
+  label: 卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0112_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 7639
+  label: 佛說佛名經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0112_ZW_001-mulu-1
+    span:
+    - body
+    - 7637
+    - 7637
+  label: 卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0112_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 6523
+  label: 佛說佛名經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0112_ZW_002-mulu-1
+    span:
+    - body
+    - 6521
+    - 6521
+  label: 卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0112_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 7582
+  label: 佛說佛名經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0112_ZW_003-mulu-1
+    span:
+    - body
+    - 7580
+    - 7580
+  label: 卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0112_ZW_004-juan-start
+    span:
+    - body
+    - 0
+    - 6341
+  label: 佛說佛名經卷第四
+  type: juan
+  level: 1
+hash: sha256:e8beb6d503eacb11232aef4b7ff9838a257c2993a61254f5a3627cfbcbca5c12
