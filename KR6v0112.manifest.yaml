@@ -18,13 +18,13 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0112_000.yaml, hash: 'sha256:cfe55ac0bb12a081468d573bd8c0c7230185f7a6d8350fc56ab0759ea26cbc30'}
+  - {seq: 0, filename: KR6v0112_000.yaml, hash: 'sha256:2ca80bd38900866476aef2a4281805fabb671dc6fbb7e34c93cd96c1a77bf89f'}
   - {seq: 1, filename: KR6v0112_001.yaml, hash: 'sha256:d0c949718ca7bec6739d14306ac541b12b40600565c09230e32b2a95df00dc3c'}
   - {seq: 2, filename: KR6v0112_002.yaml, hash: 'sha256:dd58919d17ea32d25ecc612262caf243dcd329c543952401402797accb98a918'}
   - {seq: 3, filename: KR6v0112_003.yaml, hash: 'sha256:67028eed0d3cc9b3b119e6ceca1088ce74989d6884d44aac8624b39b473c4210'}
   - {seq: 4, filename: KR6v0112_004.yaml, hash: 'sha256:cd3998f4ef49f84b269297f6c4f867abfe3d502ecb9794f0ca36a2367c3bd14b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0112_000.markers.yaml, hash: 'sha256:c3491ac73b6e473eb51310a524331f022bbc561a0316d700716e0325bb7e743a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0112_000.markers.yaml, hash: 'sha256:2984d061a7e9d7f35ae59f94fc8fac9062eae4bc5fc1c40536a870a2aae37fab'}
   - {seq: 1, role: markers, filename: assets/KR6v0112_001.markers.yaml, hash: 'sha256:c58bc02b9d49800e6ed6e98b70460c22b016d66314026228217b786c62b9f942'}
   - {seq: 2, role: markers, filename: assets/KR6v0112_002.markers.yaml, hash: 'sha256:246b09c8afabc4a45d64f73f22b10392ce56f5949b26d50db75d753bac6458ea'}
   - {seq: 3, role: markers, filename: assets/KR6v0112_003.markers.yaml, hash: 'sha256:6d47d0ca72e175c372da1c86a61000a464a1473395b104a36eeaa27d62f8a6d8'}
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0112_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0112_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 550
     - 550
   label: 錄文
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0112_ZW_000-mulu-3
     span:
-    - front
+    - body
     - 550
     - 550
   label: 卷第一
@@ -130,7 +130,7 @@ table_of_contents:
   label: 佛說佛名經卷第四
   type: juan
   level: 1
-hash: sha256:ed0e29a17cfd65d3805f84069c7368cdf37aeb98684872c5197ce89fd55a1e6f
+hash: sha256:5391a516e7149bbf23f893cc70e6c5f582f15985951801b25ea9dc66f85c44ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
